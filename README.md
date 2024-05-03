@@ -2,10 +2,7 @@
 
 #### Technical Skills: MATLAB, Python, and NCL
 
-## Education
-Physics, Dr.
-
-### Afiliation
+## Afiliation
 Atmospheric Physics Laboratory, Department of Physics, Universitas Andalas, Padang
 
 ## Education
