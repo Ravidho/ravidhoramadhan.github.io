@@ -1,1 +1,6 @@
-# ravidhoramadhan.github.io
+# Atmospheric Scientist
+
+## Education
+Physics, Dr.
+
+### Achievement
