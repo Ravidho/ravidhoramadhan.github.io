@@ -9,7 +9,7 @@ Physics, Dr.
 Atmospheric Physics Laboratory, Department of Physics, Universitas Andalas, Padang
 
 ## Education
-- Ph.D., Physics | Universitas Gadjah Mada (_August 2015 – July 2019_)								       		
+- Ph.D., Physics | Universitas Gadjah Mada (_August 2021– March 2023_)								       		
 - M.S., Physics	| Universitas Andalas (_August 2019 – July 2020_)	 			        		
 - B.S., Physics | Universitas Andalas (_August 2015 – July 2019_)
 
