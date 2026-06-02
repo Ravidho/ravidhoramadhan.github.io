@@ -3,7 +3,10 @@
 #### Technical Skills: MATLAB, Python, and NCL
 
 ## Affiliation
+(2020-Now)
 Atmospheric Physics Laboratory, Department of Physics, Universitas Andalas, Padang
+(2024-2026)
+Laboratory of Atmospheric Sensing and Diagnostics, RISH, Kyoto University, Japan
 
 ## Education
 - Ph.D., Physics | Universitas Gadjah Mada (_August 2021– July 2023_)								       		
@@ -27,8 +30,9 @@ Atmospheric Physics Laboratory, Department of Physics, Universitas Andalas, Pada
 [Research Gate](https://www.researchgate.net/profile/Ravidho-Ramadhan)
 
 ## Latest Publications
+- Ramadhan, R., Marzuki, M., Tangang, F., Hashiguchi, H., Yusnaini, H., Muharsyah, R., ... & Hermansah, H. (2026). Multi-seasonal rainfall patterns over Indonesian maritime continent derived from long-term IMERG V07B data and rain gauge observations. Atmospheric Research, 108928.
+- Marzuki, M., Ramadhan, R., Yusnaini, H., Vonnisa, M., Muharsyah, R., Nugraha, Y., ... & Erajalita, A. (2025). Long‐Term Spatial–Temporal Variability, Trends and Extreme Rainfall Events Over Indonesia Based on 43 Years of CHIRPS Data. International Journal of Climatology, 45(14), e70107.
+- Marzuki, M., Ramadhan, R., Yusnaini, H., Juneng, L., Tangang, F., Vonnisa, M., ... & Hidayat, R. (2025). Future projections of extreme precipitation over Indonesia's new capital under climate change scenario using CORDEX-SEA regional climate models. Atmospheric Research, 108389.
+- Yusnaini, H., Marzuki, M., Hashiguchi, H., Ramadhan, R., & Saufina, E. (2025). Behavior of Cloud Base Height over Sumatra Mountains Region from Ceilometer Observations. Atmospheric Research, 317, 107978.
 - Ramadhan, R., Marzuki, M., Suryanto, W., Sholihun, S., Yusnaini, H., & Muharsyah, R. (2024). Validating IMERG data for diurnal rainfall analysis across the Indonesian maritime continent using gauge observations. Remote Sensing Applications: Society and Environment, 34, 101186.
 - Marzuki, M., Yusnaini, H., Ramadhan, R., Muharsyah, R., Vonnisa, M., Harmadi, H., & Tangang, F. (2024). Diurnal cycle of precipitation over coastal sea and small islands in the eastern region of Sumatra including season and Madden Julian Oscillation signatures. Atmospheric Research, 299, 107180.
-- Ramadhan, R., Marzuki, M., Suryanto, W., Sholihun, S., Yusnaini, H., Hashiguchi, H., & Shimomai, T. (2024). Bias Correction of IMERG Data in the Mountainous Areas of Sumatra Based on A Single Gauge Observation. Trends in Sciences, 21(4), 7592-7592.
-- Ramadhan, R., Marzuki, M., Suryanto, W., Sholihun, S., Yusnaini, H., & Muharsyah, R. (2024). Rainfall variability in Indonesia new capital associated with the Madden-Julian Oscillation and its contribution to flood events. Quaternary Science Advances, 13, 100163.
-- Jumianti, N., Marzuki, M., Yusnaini, H., Ramadhan, R., Harjupa, W., Saufina, E., ... & Sarli, P. W. (2024). Prediction of extreme rain in Kototabang using Himawari-8 satellite based on differences in cloud brightness temperature. Remote Sensing Applications: Society and Environment, 33, 101102.
