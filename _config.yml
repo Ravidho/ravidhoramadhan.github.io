@@ -1,5 +1,5 @@
 title: Ravidho Ramadhan
 logo: Assets/IMG-20240607-WA0043.jpg
 #description: text below image
-show downloads: true
+show downloads: false
 theme: jekyll-theme-minimal
