@@ -23,7 +23,7 @@ Laboratory of Atmospheric Sensing and Diagnostics, RISH, Kyoto University, Japan
 6.	Final Project Recognition scheme, Universitas Gadjah Mada, 2023.
 7.	Doctoral Thesis Research Grants, the Ministry of Research, Technology, and Higher Education, 2023.
 8.	Top, Fastest, and Youngest Doctoral Graduate, Universitas Gadjah Mada (UGM), Graduation Period IV, 2024.
-9.	Japan Society for the Promotion of Science (JSPS) Fellowship Award, 2024.
+9.	Japan Society for the Promotion of Science (JSPS) Fellowship Award, 2024-2026.
 
 ## Publications Tracked
 [Google Scholar](https://scholar.google.co.id/citations?user=e81ZlDgAAAAJ&hl=id)
